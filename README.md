@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nemurisathwikagoud
+- 👋 Hi, I’m @nemuri <h1>sathwika
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning devops
 - 💞️ I’m looking to collaborate on github
